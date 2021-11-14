@@ -19,3 +19,9 @@ Design a methodology to detect whether a person is masked or not.
 * *Corporate sector*: Face mask detection can be used to maintain a safe environment for everyone. The mask detection system can send alerts or reminders to those not complying.
 * *Airports*: The Face Mask Detection System can be used at airports to detect travelers without masks. Face mask detector can be very effectively used at airports mainly for entrance flow management and monitoring.
 * *Public Transport*: In the view of pandemic, public transport will be needing to use a software to automate the checking process with very little resources needed and with efficiency.
+
+## Hardware Used
+* Raspberry Pi 4
+* Piezoelelectric buzzer
+* 5 MP camera
+* LEDs
