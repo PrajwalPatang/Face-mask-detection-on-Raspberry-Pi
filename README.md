@@ -22,6 +22,17 @@ Design a methodology to detect whether a person is masked or not.
 
 ## Hardware Used
 * Raspberry Pi 4
+* SD card for storage
 * Piezoelelectric buzzer
 * 5 MP camera
 * LEDs
+
+### Dataset used
+Real-world Masked Face Dataset (RMFD) - 1376 images
+
+### Libraries
+* OpenCV
+* keras/tensorflow
+
+## Results
+
